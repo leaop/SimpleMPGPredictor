@@ -17,7 +17,7 @@ where `mpg` is the miles per gallon and `weight` is the car weight.
 ## 🚀 Live Application
 
 You can access the deployed application here:  
-👉 [Simple MPG Predictor - Shiny App](https://your-shinyapps-link-goes-here)
+👉 [Simple MPG Predictor - Shiny App](https://zgbc9n-le0o0neto.shinyapps.io/SimpleMPGPredictor/)
 
 ## 📂 Files in this Repository
 
@@ -28,7 +28,7 @@ You can access the deployed application here:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/leaop/SimpleMPGPredictor
     ```
 2. Open RStudio.
 3. Open `ui.R` and `server.R`.
@@ -43,7 +43,7 @@ You can access the deployed application here:
 ## 🎯 Pitch Presentation
 
 An overview and explanation of the project is available here:  
-👉 [Interactive Pitch Presentation on RPubs](https://your-rpubs-link-goes-here)
+👉 [Interactive Pitch Presentation on RPubs](https://rpubs.com/leao-p-n/1302991)
 
 ## ✨ Acknowledgments
 
